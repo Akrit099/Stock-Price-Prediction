@@ -59,7 +59,7 @@ Matplotlib
 
 Scikit-learn
 
-
+---
 ✅ Results
 The model shows low prediction loss (~0.002x) after training.
 

@@ -39,12 +39,14 @@ jupyter notebook
 
 5. **Open Stock_Price_Prediction.ipynb and run all cells:
    Click on Kernel > Restart & Run All
-
+   
+---
 📷 Output
 The model will plot the actual vs predicted TCS stock prices, showing how closely the LSTM model has learned the pattern.
 
-
+---
 🛠 Technologies Used
+
 Python
 
 TensorFlow / Keras
